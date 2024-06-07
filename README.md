@@ -1,2 +1,2 @@
 # AsyncET
-Anonymous code repository for the KDD submission
+Official Python implementation of AsyncET published in KDD 2024.
